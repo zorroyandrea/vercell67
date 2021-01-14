@@ -1,0 +1,4 @@
+baseURL = "https://friensdquotes12.vercel.app"
+languageCode = "en-us"
+title = "Friends Quotes Series"
+theme = "tale-hugo-master"
